@@ -1,0 +1,51 @@
+.button_start{
+    border: 2px solid Green;
+    padding: 10px 20px;
+    font-size: 20px;
+    margin: 20px;
+    background-color: white;
+    border-radius: 12px;
+}
+.button_start:hover{
+
+color: green;
+border: 2px solid rgb(87, 144, 87);
+}
+.button_Resume{
+    border: 2px solid rgb(227, 230, 76);
+    padding: 10px 20px;
+    font-size: 20px;
+    margin: 20px;
+    background-color: white;
+    border-radius: 12px;
+}
+.button_Resume:hover{
+    color:rgb(227, 230, 76) ;
+    border: 2px solid rgb(227, 230, 76);
+}
+.button_Reset{
+    border: 2px solid rgb(88, 21, 21);
+    padding: 10px 20px;
+    font-size: 20px;
+    margin: 20px;
+    background-color: white;
+    border-radius: 12px;
+}
+.button_Reset:hover{
+    color: rgb(88, 21, 21); 
+    border: 2px solid rgb(88, 21, 21);
+}
+
+.button_stop{
+    border: 2px solid rgb(245, 16, 16);
+    padding: 10px 20px;
+    font-size: 20px;
+    margin: 20px;
+    background-color: white;
+    border-radius: 12px;
+}
+.button_stop:hover{
+    color: rgb(245, 16, 16); 
+    border: 2px solid rgb(245, 16, 16)
+    ;
+}
